@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Boban",
+                "last": "Pištalo"
+            },
+            "location": {
+                "street": {
+                    "number": 6566,
+                    "name": "Ser Tomasa Liptona"
+                },
+                "city": "Rača",
+                "state": "Raška",
+                "country": "Serbia",
+                "postcode": 28338,
+                "coordinates": {
+                    "latitude": "57.1382",
+                    "longitude": "-172.9638"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "boban.pistalo@example.com",
+            "login": {
+                "uuid": "080acab3-6ebd-4c28-af3c-2c40c211cf8a",
+                "username": "brownrabbit221",
+                "password": "veronica",
+                "salt": "z6T1VjGA",
+                "md5": "aa9f4647290fb56e571df5934421b4ba",
+                "sha1": "f914931867b96cb48a1c6be27d55901148899a7f",
+                "sha256": "39ac2d43ab1156b3aa6bbfef2406770e12cdec77c41cea2e2ca3d8c49b4d0ee9"
+            },
+            "dob": {
+                "date": "1988-09-30T10:01:12.299Z",
+                "age": 35
+            },
+            "registered": {
+                "date": "2007-07-09T08:14:51.257Z",
+                "age": 16
+            },
+            "phone": "031-0179-566",
+            "cell": "064-0638-342",
+            "id": {
+                "name": "SID",
+                "value": "304668080"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/4.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+            },
+            "nat": "RS"
+        }
+    ],
+    "info": {
+        "seed": "d4a727b682708e61",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
